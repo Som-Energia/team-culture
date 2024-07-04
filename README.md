@@ -1,2 +1,2 @@
 # team-culture
-Team decisions compendium: the IT guide to our team culture
+Guia de cultura d'equip per a IT
